@@ -25,8 +25,8 @@ The Age Calculator App allows users to input their birthday and calculates their
 
 ### Links
 
-- Solution URL: []
-- Live Site URL: []
+- Solution URL: [https://github.com/noreenfatima775/Age-Calculator-App.git]
+- Live Site URL: [https://noreenfatima775.github.io/Age-Calculator-App/]
 
 ## My Process
 
